@@ -1,0 +1,88 @@
+.container{
+
+    margin-top:27%;
+  }
+  .ab{
+    margin-left: 10%;
+  
+  }
+  
+  .bbn {
+    background-color: rgb(210, 250, 169);
+  border-radius:100px;
+  color:dark green;
+  }
+  #cd{
+    text-decoration-line:line-through;
+  color:gray;
+  font-size: medium;
+  
+  }
+  #ef{
+    color: red;
+    font-size:medium;
+  }
+  .bu{
+    
+    border-radius:50%;
+  height:23px;
+  width:23px;
+  background-color:white;
+ 
+  }
+  .but{
+    border-color:yellow;
+    border-radius:50%;
+  height:23px;
+  width:23px;
+  background-color:yellow;
+  }
+  .butt{
+    border-color:red;
+    border-radius:50%;
+  height:23px;
+  width:23px;
+  background-color:red;
+  }
+  .butto{
+    border-color:blue;
+    border-radius:50%;
+  height:23px;
+  width:23px;
+  background-color:blue;
+  }
+  #one{
+    border-radius:5px;
+    background-color:rgb(138, 14, 76);
+    width:50%;
+    height:35px;
+    margin-left: 150px;
+    color:white;
+    margin-top:-60px;
+  }
+  .two{
+    
+  margin-Top:-7% ;
+  border-color: rgb(138, 14, 76);
+  }
+  .three{
+    height:100%;
+  }
+  .four{
+    background-color: white;
+    border-radius:0%;
+  }
+  .fou{
+   border-color:purple;
+   border-style: solid;
+  width:30%;
+  height: -10%;
+  }
+  .fo{
+    border-color:purple;
+   border-style: solid;
+  width:30%;
+  height: -10%;
+
+  }
+  
